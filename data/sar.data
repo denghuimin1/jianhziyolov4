@@ -1,0 +1,6 @@
+classes=6
+train=./data/2020_train.txt
+valid=./data/2020_trainval.txt
+names=data/ships.names
+backup=backup/
+eval=coco
